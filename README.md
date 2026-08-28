@@ -126,7 +126,3 @@ This repository aggregates research, benchmarks, and programmatic frameworks des
 ## 📜 License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
-
-
-## 📜 License
-Distributed under the MIT License[cite: 2]. See [`LICENSE`](LICENSE) for more information[cite: 2].
