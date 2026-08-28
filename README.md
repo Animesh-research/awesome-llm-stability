@@ -7,14 +7,9 @@ This repository investigates the vulnerabilities introduced by Large Language Mo
 * [📄 AI-Assisted Research Paper](#-ai-assisted-research-paper)
 * [🔍 Citation Integrity Audit](#-citation-integrity-audit)
 * [📚 Curated Research Papers](#-curated-research-papers)
-  * [Foundational Papers](#foundational-papers)
-  * [Mechanics of Prompt Sensitivity](#mechanics-of-prompt-sensitivity)
-  * [Optimization and Mitigation Strategies](#optimization-and-mitigation-strategies)
-  * [Surveys and Evaluation Metrics](#surveys-and-evaluation-metrics)
 * [📊 Datasets](#-datasets)
 * [🛠️ Tools and Libraries](#️-tools-and-libraries)
-* [💻 GitHub Implementations](#-github-implementations)
-* [🎓 Tutorials and Learning Resources](#-tutorials-and-learning-resources)
+* [💻 GitHub Implementations & Tutorials](#-github-implementations--tutorials)
 * [📜 License](#-license)
 
 ---
@@ -42,28 +37,28 @@ All references and empirical claims generated in the baseline AI research paper 
 ---
 
 ## 📚 Curated Research Papers
-A collection of 20 verified research papers categorized into Foundational Papers, Mechanics of Prompt Sensitivity, Optimization Strategies, and Surveys.
-* 🔗 [**View Full List of Papers (20)**](references/references.md)
+A collection of 20 verified research papers categorized into Foundational Papers, Mechanics of Prompt Sensitivity, Optimization Strategies, and Surveys[cite: 2].
+* 🔗 [**View Full List of Papers (20)**](references/references.md)[cite: 2]
 
 ---
 
 ## 📊 Datasets
-Benchmark datasets used to test LLM prompt sensitivity, adversarial perturbations, and reasoning stability.
-* 🔗 [**View Full List of Datasets**](datasets/datasets.md)
+Benchmark datasets used to test LLM prompt sensitivity, adversarial perturbations, and reasoning stability[cite: 2].
+* 🔗 [**View Full List of Datasets**](datasets/datasets.md)[cite: 2]
 
 ---
 
 ## 🛠️ Tools and Libraries
-Frameworks and optimization toolkits designed to programmatically stabilize prompt instructions.
-* 🔗 [**View Full List of Tools**](tools/tools.md)
+Frameworks and optimization toolkits designed to programmatically stabilize prompt instructions[cite: 2].
+* 🔗 [**View Full List of Tools**](tools/tools.md)[cite: 2]
 
 ---
 
 ## 💻 GitHub Implementations & Tutorials
-Open-source repositories, optimization codebases, and authoritative learning materials.
-* 🔗 [**View Full List of Implementations & Tutorials**](implementations/github-repositories.md)
+Open-source repositories, optimization codebases, and authoritative learning materials[cite: 2].
+* 🔗 [**View Full List of Implementations & Tutorials**](implementations/github-repositories.md)[cite: 2]
 
 ---
 
 ## 📜 License
-Distributed under the MIT License.
+Distributed under the MIT License[cite: 2]. See [`LICENSE`](LICENSE) for more information[cite: 2].
